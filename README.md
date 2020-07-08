@@ -4,7 +4,7 @@ This repository contains the algorithm and experiments for **Subspace Clustering
 ```
 @inproceedings{peng2019subspace,
   title={Subspace Clustering with Active Learning},
-  author={Peng, Hankui and Pavlidis, Nicos G},
+  author={Peng, Hankui and Pavlidis, Nicos G.},
   booktitle={2019 IEEE International Conference on Big Data (Big Data)},
   pages={135--144},
   year={2019},
